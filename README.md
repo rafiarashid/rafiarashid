@@ -1,10 +1,7 @@
-### Hi there 👋 I am Rafia Rashid. Welcome to my GitHub profile 🤝
+
   Software developer || Mobile App developer (iOS) || Mobile App developer (Flutter)
 
 
-### Let's Connect 🤝
-![LinkenIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=red)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 <!--
 **rafiarashid/rafiarashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
